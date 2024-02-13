@@ -6,3 +6,6 @@
 > `_Aquaotter_` - Java
 
 > `.AquaotterMC` - Bedrock
+
+**Discord Username:**
+> `aquaotter` - Main
