@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hello, Aquaotter here 👋
 
-**AqualtnicDevelopment/AqualtnicDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Some info about me :D
 
-- 🔭 I’m currently working on KBB
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on PBB
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about anything
-- 📫 How to reach me: Discord
+- 🔭 I’m currently working on Java Plugin
+- 🌱 I’m currently learning NONE
+- 👯 I’m looking to collaborate on NONE
+- 🤔 I’m looking for help with NONE
+- 💬 Ask me about NONE
+- 📫 How to reach me: 
+**Minecraft Usernames:**
+> _Aquaotter_
+> AquaotterMC
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: facts are only fun with there not boring like this one
